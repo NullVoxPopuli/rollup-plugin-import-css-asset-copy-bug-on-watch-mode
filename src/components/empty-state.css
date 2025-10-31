@@ -1,0 +1,10 @@
+.empty {
+	display: flex;
+	align-items: center;
+	height: 7rem;
+	padding-left: 8rem;
+	background: url("./command-empty.png") no-repeat;
+	background-size: 100px auto;
+	background-position: 1rem 0.5rem;
+}
+

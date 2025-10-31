@@ -1,0 +1,32 @@
+
+# we don't want to format these
+*.yml
+*.yaml
+*.json
+*.svg
+!package.json
+*.jsonc
+*.md
+.eslintcache
+.prettier-cache
+.lint-todo
+failed-test-log.txt
+icons/
+
+# unconventional js
+/blueprints/*/files/
+
+# compiled output
+/dist/
+/dist-*
+/declarations/
+/concat-stats-for/
+illustrations/
+
+# misc
+/coverage/
+/vendor/
+/public/
+/tmp/
+__snapshots__
+
